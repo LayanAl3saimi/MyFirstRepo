@@ -2,7 +2,7 @@
 This project was created as part of the Git & GitHub Lab.
 
 ## About
-- Created by: [Layan Alosaimi]
+- Created by: [Layan Alosaimi, kayan, Rataj, Fatima]
 - Course: [ITCW205]
 - Date: [10 Nov]
 
